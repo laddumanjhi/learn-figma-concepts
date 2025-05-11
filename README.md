@@ -1,6 +1,5 @@
 🌟 Daily Learn Concepts of Figma
 Learn, explore, and master design principles using Figma with daily insights!
-
 📚 Table of Contents
 - ✨ Introduction
 - 🎯 Daily Goals
@@ -28,6 +27,7 @@ Figma is a powerful tool for designing user interfaces and collaborating seamles
    🔄 Allows designers to create interactive mockups without coding.  
 
 📌 [Learn More About Figma](https://www.figma.com/)
+figma id name - kajal manjhi 
 
 🎯 Daily Goals
 - Understand key features like frames, components, and constraints.
